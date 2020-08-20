@@ -1,2 +1,2 @@
 # The VBA of Wall Street
-![vba](Images/stockmarket.jpg)
+![vba](VBAStocks/Images/stockmarket.jpg)
